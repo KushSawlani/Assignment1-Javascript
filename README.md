@@ -1,1 +1,1 @@
-# Assignment1-Javascript
+# Assignment1-Javascript Calculator
